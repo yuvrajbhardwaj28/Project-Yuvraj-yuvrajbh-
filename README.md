@@ -1,8 +1,5 @@
 # Project-Yuvraj-yuvrajbh-
 Capstone Project RBS Tech Training SQL- Yuvraj Bhardwaj(yuvrajbh)
-# Academic & Event Management System Projects (SQL)
-
-This repository contains four SQL-based projects developed as part of a certification assignment. Each project focuses on different aspects of SQL and database management including OLAP, PostgreSQL operations, and academic systems.
 
 ## Projects Included
 
